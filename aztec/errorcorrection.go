@@ -1,7 +1,7 @@
 package aztec
 
 import (
-	"github.com/boombuler/barcode/utils"
+	"github.com/yo-gawa/barcode/utils"
 )
 
 func bitsToWords(stuffedBits *utils.BitList, wordSize int, wordCount int) []int {
